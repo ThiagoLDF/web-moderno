@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Thiago de Lucena",
+      "email": "sdaasdsa@asdasdsad"
+    },
+    {
+      "id": 2,
+      "name": "Fabiana Cristina do Nascimento",
+      "email": "asdasd@asdasdads"
+    },
+    {
+      "name": "asdasdsd",
+      "email": "asdasdasdas",
+      "id": 3
+    }
+  ]
+}
